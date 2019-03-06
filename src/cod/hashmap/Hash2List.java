@@ -9,7 +9,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author junio
+ * @author fred
  */
 public class Hash2List extends ClassList{
  

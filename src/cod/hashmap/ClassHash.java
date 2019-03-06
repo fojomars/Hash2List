@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author junio
+ * @author fred
  */
 public class ClassHash implements InterfaceHash{
 

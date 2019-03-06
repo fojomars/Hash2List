@@ -9,7 +9,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author junio
+ * @author fred
  */
 public class amosarClassList {
     public static void mostrar(ClassList lista) {

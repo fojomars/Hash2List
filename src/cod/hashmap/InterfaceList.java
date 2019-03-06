@@ -7,7 +7,7 @@ package cod.hashmap;
 
 /**
  *
- * @author junio
+ * @author fred
  */
 public interface InterfaceList {
     public void putElement(String element);

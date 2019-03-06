@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author junio
+ * @author fred
  */
 public class ClassList implements InterfaceList{
     
